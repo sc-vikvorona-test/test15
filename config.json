@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "debug": false,
+  "timeout": 30,
+  "retries": 3
+}
